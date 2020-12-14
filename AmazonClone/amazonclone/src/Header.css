@@ -41,6 +41,22 @@
     justify-content: space-evenly;
 }
 
+.header__optionLine1{
+
+}
+
+.header__optionLine2{
+    
+}
+
+.header__basketCount{
+
+}
+
+.header__optionBasket{
+    
+}
+
 .header__option{
     display: flex;
     flex-direction: column;
